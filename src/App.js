@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="app-todo">
-      <h1>Todo</h1>
+      <h1>TODO</h1>
       <input
         type="text"
         placeholder="Add todo..."
